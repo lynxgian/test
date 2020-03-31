@@ -1,0 +1,6 @@
+{
+    "nodes": [
+        { "host": "69.123.153.47", "port": 25568, "password": "youshallnotpasses" }
+    ],
+    "prefix": "-"
+}
